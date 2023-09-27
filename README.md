@@ -1,5 +1,6 @@
-<div align="center"><img src="https://github.com/DSC-JSS-NOIDA/DataDen/assets/21278020/9037f9e4-4584-468a-b0ff-8386d6f7e96b" alt="hacktoberfest 2023 logo"/></div>
+<div align="center"><img src="https://github.com/DSC-JSS-NOIDA/DataDen/assets/21278020/0f2313d1-ebdf-4d58-80b4-a9eb506a94d7" alt="hacktoberfest 2023 logo"/></div>
 <br>
+
 
 
 # DataDen
@@ -13,3 +14,72 @@
 
 
 A collection of diverse datasets for impactful exploratory data analysis and model development.  Get started with your Open Source and Machine Learning Journey with this beginner-friendly repository.
+
+## Steps for contribution ⚙️
+### **1) Fork the repository**
+<br>
+  
+![Fork the DataDen Repository Image](https://github.com/DSC-JSS-NOIDA/DataDen/assets/21278020/0f6bccd2-c8f0-46be-8b3d-9a1ba762b3eb)
+
+### **2)Clone your forked repository using terminal or gitbash.**
+<br>
+
+![Clone the DataDen Repository Image](https://github.com/DSC-JSS-NOIDA/DataDen/assets/21278020/c97e68c8-71ba-4efa-a5d6-e4b66f7d1d21)
+
+<br>
+<br>
+
+```sh
+  git clone https://github.com/<YOUR_GITHUB_USERNAME>/DataDen.git
+```
+
+```sh
+  cd DataDen
+```
+
+### **3) Make changes to the cloned repository**
+
+Make changes to the project (by adding the assigned project).
+
+<br>
+
+![image](https://github.com/DSC-JSS-NOIDA/DataDen/assets/21278020/e72aafbb-90df-4acd-a5a2-23d1eb4c6384)
+
+
+<br>
+
+
+![image](https://github.com/DSC-JSS-NOIDA/DataDen/assets/21278020/523a1ee0-597d-401b-9b28-c61e5d9b2083)
+
+<br>
+
+### **4) Add, Commit and Push**
+
+
+<br>Stage your changes using:
+
+```
+ git add .
+```
+
+<br>Commit your changes using:
+
+```
+ git commit -m "add any comment"
+```
+
+<br>Push the changes to the forked repository using:
+
+```
+ git push
+```
+### **5)From the cloned repository in your Github account, make a pull request**
+<br>
+
+## Resources 📖
+- **Git and Github**: [Git and Github for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+
+<br>
+
+
+
