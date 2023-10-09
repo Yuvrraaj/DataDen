@@ -37,3 +37,6 @@ Considerations for future improvements include:
 - Hyperparameter tuning for better model performance.
 - Feature engineering to derive new insights.
 - Exploring more complex neural network architectures.
+
+## contributer
+ - YUVRAJ JHA
